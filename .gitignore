@@ -1,0 +1,27 @@
+# Node
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+apps/orchestrator/.env
+.env
+.env.local
+
+# Logs / OS
+*.log
+.DS_Store
+.idea/
+.vscode/
+
+# Xcode / Swift
+apps/ios/build/
+apps/ios/DerivedData/
+**/xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+.swiftpm/
